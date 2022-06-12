@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Каталог товаров</title>
+</head>
+
+<body>
+  <h2>Каталог товаров</h2>
+  <!-- BEGIN (write your solution here) -->
+  <ul class="catalog">
+    <li class="catalog-item">
+      <h3>Печенье</h3>
+      <img src="images/img.png" alt="Печенье">
+      <p class="price">250</p>
+    </li>
+    <li class="catalog-item">
+      <h3>Шоколад</h3>
+      <img src="images/img.png" alt="Шоколад">
+      <p class="price">150</p>
+    </li>
+    <li class="catalog-item">
+      <h3>Орехи</h3>
+      <img src="images/img.png" alt="Орехи">
+      <p class="price">350</p>
+    </li>
+    <li class="catalog-item">
+      <h3>Чипсы</h3>
+      <img src="images/img.png" alt="Чипсы">
+      <p class="price">110</p>
+    </li>
+    <li class="catalog-item">
+      <h3>Молочный коктейль</h3>
+      <img src="images/img.png" alt="Коктейль">
+      <p class="price">60</p>
+    </li>
+    <li class="catalog-item">
+      <h3>Пирожное</h3>
+      <img src="images/img.png" alt="Пирожное">
+      <p class="price">280</p>
+    </li>
+  </ul>
+  <!-- END -->
+</body>
+
+</html>
