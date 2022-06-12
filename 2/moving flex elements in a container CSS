@@ -1,0 +1,16 @@
+/* BEGIN (write your solution here) */
+
+.catalog-item {
+
+  width: 350px;
+}
+
+.catalog {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0;
+
+  list-style: none;
+}
+
+/* END */
